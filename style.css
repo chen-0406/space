@@ -11,7 +11,7 @@
     /* ===== Colors ===== */
     --body-color: #dbdbdb;
     --sidebar-color: #FFF;
-    --primary-color: #695CFE;
+    --primary-color: #5c87fe;
     --primary-color-light: #F6F5FF;
     --toggle-color: #DDD;
     --text-color: #707070;
@@ -92,7 +92,7 @@ body.dark{
 
 .sidebar .text{
     font-size: 17px;
-    font-weight: 800;
+    font-weight: bold;
     white-space: nowrap;
     opacity: 1;
 }
